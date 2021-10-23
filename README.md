@@ -6,4 +6,4 @@
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: **Linkedin** - [Talha Tallat](https://www.linkedin.com/in/talhatallat/) , **Gmail** - talhatallat0@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=talhatallat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=050505">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhatallat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=050505">
