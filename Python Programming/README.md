@@ -33,3 +33,19 @@ str()
 any()          
 eval()        
 isinstance()    pow()       sum()basestring()   execfile()    issubclass()    print()     super()  bin()          file()        iter()          property()  tuple()bool()         filter()      len()           range()     type() bytearray()    float()       list()          raw_input() unichr()callable()     format()      locals()        reduce()    unicode()chr()          frozenset()   long()          reload()    vars() classmethod()  getattr()     map()           repr()      xrange()cmp()          globals()     max()           reversed()  zip()compile()      hasattr()     memoryview()    round()     __import__()complex()      hash()        min()           set()       apply()delattr()      help()        next()          setattr()   buffer()dict()         hex()         object()        slice()     coerce()dir()          id()          oct()           sorted()    intern()
+
+## Summary 
+
+### Chapter 1 - Getting Started
+  * learned a bit about Python in general, and installed Python to windows system.
+  * learned how to Run Python in Visual Studio Code on Windows.
+  * learned to run snippets of Python code in a terminal session.
+  * Ran actual program, hello_world.py and learned a bit about troubleshooting.
+
+### Chapter 2 - VARIABLES AND SIMPLE DATA TYPES
+ * learned to work with variables and to use descriptive variable names and how to resolve name errors and syntax errors when they arise.
+ * learned what strings are and how to display strings using lowercase, uppercase, and titlecase.
+ * learned to strip unneeded whitespace from different parts of a string.
+ * learned to write explanatory comments to make your code easier for you and others to read.
+
+### Chapter 3 - LISTS
