@@ -51,3 +51,11 @@ isinstance()    pow()       sum()basestring()   execfile()    
  * learned to write explanatory comments to make your code easier for you and others to read.
 
 ### Chapter 3 - LISTS
+
+* learned what lists are and how to work with the individual items in a list. 
+* learned how to define a list and how to add and remove elements. 
+* learned to sort lists permanently and temporarily for display purposes. 
+* learned how to find the length of a list and how to avoid index errors when working with lists.
+
+
+### Chapter 4 - WORKING WITH LISTS
