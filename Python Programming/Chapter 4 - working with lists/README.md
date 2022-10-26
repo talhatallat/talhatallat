@@ -1,3 +1,4 @@
+# Chapter 4 - Working with lists
 ## Pizzas
 ### TRY IT YOURSELF
 #### 4-1. Pizzas: Think of at least three kinds of your favorite pizza. Store these pizza names in a list, and then use a for loop to print the name of each pizza.
@@ -29,3 +30,8 @@
 * Use a for loop to print each food the restaurant offers.
 * Try to modify one of the items, and make sure that Python rejects the change.
 * The restaurant changes its menu, replacing two of the items with different foods. Add a block of code that rewrites the tuple, and then use a for loop to print each of the items on the revised menu.
+#### 4-14. PEP 8: Look through the original PEP 8 style guide at https://python.org/dev/peps/pep-0008/. You won’t use much of it now, but it might be interesting to skim through it.
+#### 4-15. Code Review: Choose three of the programs you’ve written in this chapter and modify each one to comply with PEP 8:
+* Use four spaces for each indentation level. Set your text editor to insert four spaces every time you press TAB, if you haven’t already done so (see Appendix B for instructions on how to do this).
+* Use less than 80 characters on each line, and set your editor to show a vertical guideline at the 80th character position.
+* Don’t use blank lines excessively in your program files.
