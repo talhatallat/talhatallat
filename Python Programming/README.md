@@ -73,3 +73,5 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * learned to handle certain items in a list differently than all other items while continuing to utilize the efficiency of a for loop. 
 * revisited Python’s style recommendations to ensure that your increasingly complex programs are still relatively easy to read and understand.
 
+### Chapter 6 - DICTIONARIES
+
