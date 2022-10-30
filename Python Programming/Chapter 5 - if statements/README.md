@@ -1,4 +1,4 @@
-# ifStatements.py
+# <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%205%20-%20if%20statements/ifStatements.py">ifStatements.py</a>
 ## 5-3: Alien Colors #1
 Imagine an alien was just shot down in a game. Create a variable called alien_color and assign it a value of 'green', 'yellow', or 'red'.
 * Write an if statement to test whether the alien’s color is green. If it is, print a message that the player just earned 5 points.
@@ -24,7 +24,7 @@ Write an if-elif-else chain that determines a person’s stage of life. Set a va
 Make a list of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your list.
 * Make a list of your three favorite fruits and call it favorite_fruits.
 * Write five if statements. Each should check whether a certain kind of fruit is in your list. If the fruit is in your list, the if block should print a statement, such as You really like bananas!
-# ifSatementsWithList.py
+# <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%205%20-%20if%20statements/ifStatementswithLists.py">ifSatementsWithList.py</a>
 ## 5-8. Hello Admin: 
 Make a list of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user after they log in to a website. Loop through the list, and print a greeting to each user:
 * If the username is 'admin', print a special greeting, such as Hello admin, would you like to see a status report?
