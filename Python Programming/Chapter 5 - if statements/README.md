@@ -24,7 +24,7 @@ Write an if-elif-else chain that determines a person’s stage of life. Set a va
 Make a list of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your list.
 * Make a list of your three favorite fruits and call it favorite_fruits.
 * Write five if statements. Each should check whether a certain kind of fruit is in your list. If the fruit is in your list, the if block should print a statement, such as You really like bananas!
-
+# ifSatementsWithList.py
 ## 5-8. Hello Admin: 
 Make a list of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user after they log in to a website. Loop through the list, and print a greeting to each user:
 * If the username is 'admin', print a special greeting, such as Hello admin, would you like to see a status report?
