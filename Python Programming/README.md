@@ -67,3 +67,9 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * learned about tuples, which provide a degree of protection to a set of values that shouldn’t change, and how to style your increasingly complex code to make it easy to read.
 
 ### Chapter 5 - IF STATEMENTS
+
+* learned how to write conditional tests, which always evaluate to True or False. 
+* learned to write simple if statements, if-else chains, and if-elif-else chains. Useed these structures to identify particular conditions needed to test and to know when those conditions have been met in your programs. 
+* learned to handle certain items in a list differently than all other items while continuing to utilize the efficiency of a for loop. 
+* revisited Python’s style recommendations to ensure that your increasingly complex programs are still relatively easy to read and understand.
+
