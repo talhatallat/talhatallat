@@ -18,3 +18,14 @@ Make a dictionary containing three major rivers and the country each river runs 
 ## 6-6. Polling: Use the code in favorite_languages.py (page 104).
 * Make a list of people who should take the favorite languages poll. Include some names that are already in the dictionary and some that are not.
 * Loop through the list of people who should take the poll. If they have already taken the poll, print a message thanking them for responding. If they have not yet taken the poll, print a message inviting them to take the poll.
+# dictionaries_in_lists.py
+## 6-7. People: Start with the program in Exercise 6-1 (page 102). 
+Make two new dictionaries representing different people, and store all three dictionaries in a list called people. Loop through the list of people. print everything about each person while looping.
+## 6-8. Pets: Make several dictionaries, where the name of each dictionary is the name of a pet. 
+In each dictionary, include the kind of animal and the owner’s name. Store these dictionaries in a list called pets. Next, loop through the list and print everything about each pet.
+## 6-9. Favorite Places: Make a dictionary called favorite_places. 
+Think of three names to use as keys in the dictionary, and store one to three favorite places for each person. Loop through the dictionary, and print each person’s name and their favorite places.
+## 6-10. Favorite Numbers: Modify program from Exercise 6-2 (page 102) so each person can have more than one favorite number. 
+Then print each person’s name along with their favorite numbers.
+## 6-11. Cities: Make a dictionary called cities. 
+Use the names of three cities as keys in your dictionary. Create a dictionary of information about each city and include the country that the city is in, its approximate population, and one fact about that city. The keys for each city’s dictionary should be something like country, population, and fact. Print the name of each city and all of the information about it.
