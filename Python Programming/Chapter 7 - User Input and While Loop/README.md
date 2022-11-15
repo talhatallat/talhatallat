@@ -1,11 +1,28 @@
 # <a href= "https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%207%20-%20User%20Input%20and%20While%20Loop/user_input.py" >user_input.py</a>
+* How the input() Function Works
+* Writing Clear Prompts
+* Using int() to Accept Numerical Input
+* The Modulo Operator
+
+
 ## 7-1. Rental Car: 
 Write a program that asks the user what kind of rental car they would like. Print a message about that car, such as “Let me see if I can find you a Subaru.”
 ## 7-2. Restaurant Seating: 
 Write a program that asks the user how many people are in their dinner group. If the answer is more than eight, print a message saying they’ll have to wait for a table. Otherwise, report that their table is ready.
 ## 7-3. Multiples of Ten: 
 Ask the user for a number, and then report whether the number is a multiple of 10 or not.
+
+
+
 # <a href= "https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%207%20-%20User%20Input%20and%20While%20Loop/while_loops.py" >while_loops.py</a>
+* The while Loop in Action
+* Letting the User Choose When to Quit
+* Using a Flag
+* Using break to Exit a Loop
+* Using continue in a Loop
+* Avoiding Infinite Loops
+
+
 ## 7-4. Pizza Toppings: 
 Write a loop that prompts the user to enter a series of pizza toppings until they enter a 'quit' value. As they enter each topping, print a message saying you’ll add that topping to their pizza.
 ## 7-5. Movie Tickets: 
@@ -17,7 +34,15 @@ Write different versions of either Exercise 7-4 or Exercise 7-5 that do each of 
 • Use a break statement to exit the loop when the user enters a 'quit' value.
 ## 7-7. Infinity: 
 Write a loop that never ends, and run it. (To end the loop, press CTRL-C or close the window displaying the output.)
+
+
+
 # <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%207%20-%20User%20Input%20and%20While%20Loop/while_loops_with_list_and_dictionaries.py">while_loops_with_list_and_dictionaries.py</a>
+  * Moving Items from One List to Another
+  * Removing All Instances of Specific Values from a List
+  * Filling a Dictionary with User Input
+
+
 ## 7-8. Deli: 
 Make a list called sandwich_orders and fill it with the names of various sandwiches. Then make an empty list called finished_sandwiches. Loop through the list of sandwich orders and print a message for each order, such as I made your tuna sandwich. As each sandwich is made, move it to the list of finished sandwiches. After all the sandwiches have been made, print a message listing each sandwich that was made.
 ## 7-9. No Pastrami: 
