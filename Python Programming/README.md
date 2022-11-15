@@ -87,3 +87,7 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * learned several ways to control the flow of a while loop by setting an active flag, using the break statement, and using the continue statement. 
 * learned how to use a while loop to move items from one list to another and how to remove all instances of a value from a list. 
 * learned how while loops can be used with dictionaries.
+
+### Chapter 8 - FUNCTIONS
+
+
