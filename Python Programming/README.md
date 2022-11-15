@@ -74,7 +74,16 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * revisited Python’s style recommendations to ensure that your increasingly complex programs are still relatively easy to read and understand.
 
 ### Chapter 6 - DICTIONARIES
+
 * learned how to define a dictionary and how to work with the information stored in a dictionary. 
 * learned how to access and modify individual elements in a dictionary, and how to loop through all of the information in a dictionary. 
 * learned to loop through a dictionary’s key-value pairs, its keys, and its values. 
 * learned how to nest multiple dictionaries in a list, nest lists in a dictionary, and nest a dictionary inside a dictionary.
+
+### Chapter 7 - USER INPUT AND WHILE LOOPS
+
+* learned how to use input() to allow users to provide their own information in the programs. 
+* learned to work with both text and numerical input and how to use while loops to make programs run as long as users want them to. 
+* learned several ways to control the flow of a while loop by setting an active flag, using the break statement, and using the continue statement. 
+* learned how to use a while loop to move items from one list to another and how to remove all instances of a value from a list. 
+* learned how while loops can be used with dictionaries.
