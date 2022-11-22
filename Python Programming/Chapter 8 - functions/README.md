@@ -37,3 +37,12 @@ Write a function called make_album() that builds a dictionary describing a music
 Add an optional parameter to make_album() that allows you to store the number of tracks on an album. If the calling line includes a value for the number of tracks, add that value to the album’s dictionary. Make at least one new function call that includes the number of tracks on an album.
 ## 8-8. User Albums: 
 Start with your program from Exercise 8-7. Write a while loop that allows users to enter an album’s artist and title. Once you have that information, call make_album() with the user’s input and print the dictionary that’s created. Be sure to include a quit value in the while loop.
+
+# <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%208%20-%20functions/modifying_a_List_in_a_Function.py">modifying_a_List_in_a_Function.py</a>
+## 8-9. Magicians: 
+  Make a list of magician’s names. Pass the list to a function called show_magicians(), which prints the name of each magician in the list.
+## 8-10. Great Magicians: 
+  Start with a copy of your program from Exercise 8-9. Write a function called make_great() that modifies the list of magicians by adding the phrase the Great to each magician’s name. Call show_magicians() to see that the list has actually been modified.
+## 8-11. Unchanged Magicians: 
+  Start with your work from Exercise 8-10. Call the function make_great() with a copy of the list of magicians’ names. Because the original list will be unchanged, return the new list and store it in a separate list. Call show_magicians() with each list to show that you have one list of the original names and one list with the Great added to each magician’s name.
+
