@@ -1,3 +1,5 @@
+# Modifying a List in a Function
+
 # Start with some designs that need to be printed.
 unprinted_designs = ['iphone case', 'robot pendant', 'dodecahedron']
 completed_models = []
