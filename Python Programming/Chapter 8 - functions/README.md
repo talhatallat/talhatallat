@@ -39,6 +39,9 @@ Add an optional parameter to make_album() that allows you to store the number of
 Start with your program from Exercise 8-7. Write a while loop that allows users to enter an album’s artist and title. Once you have that information, call make_album() with the user’s input and print the dictionary that’s created. Be sure to include a quit value in the while loop.
 
 # <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%208%20-%20functions/modifying_a_List_in_a_Function.py">modifying_a_List_in_a_Function.py</a>
+* Passing a List
+* Modifying a List in a Function
+* Preventing a Function from Modifying a List
 ## 8-9. Magicians: 
   Make a list of magician’s names. Pass the list to a function called show_magicians(), which prints the name of each magician in the list.
 ## 8-10. Great Magicians: 
@@ -46,3 +49,17 @@ Start with your program from Exercise 8-7. Write a while loop that allows users 
 ## 8-11. Unchanged Magicians: 
   Start with your work from Exercise 8-10. Call the function make_great() with a copy of the list of magicians’ names. Because the original list will be unchanged, return the new list and store it in a separate list. Call show_magicians() with each list to show that you have one list of the original names and one list with the Great added to each magician’s name.
 
+# <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%208%20-%20functions/Passing_an_Arbitrary_Number_of_Arguments.py">Passing_an_Arbitrary_Number_of_Arguments.py<a/>
+* Passing an Arbitrary Number of Arguments
+* Mixing Positional and Arbitrary Arguments
+* Using Arbitrary Keyword Arguments
+## 8-12. Sandwiches: 
+Write a function that accepts a list of items a person wants on a sandwich. The function should have one parameter that collects as many items as the function call provides, and it should print a summary of the sandwich that is being ordered. Call the function three times, using a different number of arguments each time.
+## 8-13. User Profile: 
+Start with a copy of user_profile.py from page 153. Build a profile of yourself by calling build_profile(), using your first and last names and three other key-value pairs that describe you.
+## 8-14. Cars: 
+Write a function that stores information about a car in a dictionary. The function should always receive a manufacturer and a model name. It should then accept an arbitrary number of keyword arguments. Call the function with the required information and two other name-value pairs, such as a color or an optional feature. Your function should work for a call like this one:
+
+car = make_car('subaru', 'outback', color='blue', tow_package=True)
+
+Print the dictionary that’s returned to make sure all the information was stored
