@@ -63,3 +63,23 @@ Write a function that stores information about a car in a dictionary. The functi
 car = make_car('subaru', 'outback', color='blue', tow_package=True)
 
 Print the dictionary that’s returned to make sure all the information was stored
+# <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%208%20-%20functions/importing_modules_and_functions.py">importing_modules_and_functions.py<a/>
+* Storing Your Functions in Modules
+* Importing an Entire Module
+* Importing Specific Functions
+* Using as to Give a Function an Alias
+* Using as to Give a Module an Alias
+* Importing All Functions in a Module
+* Styling Functions
+## 8-15. Printing Models: 
+Put the functions for the example print_models.py in a separate file called printing_functions.py. Write an import statement at the top of print_models.py, and modify the file to use the imported functions.
+## 8-16. Imports: 
+Using a program you wrote that has one function in it, store that function in a separate file. Import the function into your main program file, and call the function using each of these approaches:
+* import module_name
+* from module_name import function_name
+* from module_name import function_name as fn
+* import module_name as mn
+* from module_name import *
+## 8-17. Styling Functions: 
+Choose any three programs you wrote for this chapter, and make sure they follow the styling guidelines described in this section.
+
