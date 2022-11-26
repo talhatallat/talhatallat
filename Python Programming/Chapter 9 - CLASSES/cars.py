@@ -1,6 +1,7 @@
 # the car class
 class Car():
     """A simple attempt to represent a car."""
+    
     def __init__(self, make, model, year): # method has 3 parameters
         """Initialize attributes to describe a car."""
         self.make = make
@@ -16,17 +17,19 @@ class Car():
     def read_odometer(self):
         """Print a statement showing the car's mileage."""
         print("This car has " + str(self.odometer_reading) + " miles on it.")
+        
     def update_odometer(self, mileage):
         """
         Set the odometer reading to the given value.
         Reject the change if it attempts to roll the odometer back.
         """
-        if mileage >= self.odometer_reading:
+        if mileage >= self.odometer_reading: #  If the new mileage, mileage, is greater than or equal to the existing mileage, self.odometer_reading, you can update the odometer reading to the new mileage
             self.odometer_reading = mileage
         else:
+            #  If the new mileage is less than the existing mileage, you’ll get a warning that you can’t roll back an odometer
             print("You can't roll back an odometer!")
         
-    def increment_odometer(self, miles):
+    def increment_odometer(self, miles): # The new method increment_odometer() takes in a number of miles, and adds this value to self.odometer_reading.
         """Add the given amount to the odometer reading."""
         self.odometer_reading += miles
         
