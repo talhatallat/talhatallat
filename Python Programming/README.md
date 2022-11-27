@@ -50,7 +50,7 @@ isinstance()    pow()       sum()basestring()   execfile()    
  * learned to strip unneeded whitespace from different parts of a string.
  * learned to write explanatory comments to make your code easier for you and others to read.
 
-### Chapter 3 - LISTS
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%203%20-%20Lists">Chapter 3 - LISTS</a>
 
 * learned what lists are and how to work with the individual items in a list. 
 * learned how to define a list and how to add and remove elements. 
@@ -58,7 +58,7 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * learned how to find the length of a list and how to avoid index errors when working with lists.
 
 
-### Chapter 4 - WORKING WITH LISTS
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%204%20-%20working%20with%20lists">Chapter 4 - WORKING WITH LISTS</a>
 
 * learned how to work efficiently with the elements in a list. 
 * learned how to work through a list using a for loop, how Python uses indentation to structure a program, and how to avoid some common indentation errors. 
@@ -66,21 +66,21 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * learned how to slice a list to work with a subset of items and how to copy lists properly using a slice. 
 * learned about tuples, which provide a degree of protection to a set of values that shouldn’t change, and how to style your increasingly complex code to make it easy to read.
 
-### Chapter 5 - IF STATEMENTS
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%205%20-%20if%20statements">Chapter 5 - IF STATEMENTS</a>
 
 * learned how to write conditional tests, which always evaluate to True or False. 
 * learned to write simple if statements, if-else chains, and if-elif-else chains. Useed these structures to identify particular conditions needed to test and to know when those conditions have been met in your programs. 
 * learned to handle certain items in a list differently than all other items while continuing to utilize the efficiency of a for loop. 
 * revisited Python’s style recommendations to ensure that your increasingly complex programs are still relatively easy to read and understand.
 
-### Chapter 6 - DICTIONARIES
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%206%20-%20Dictionaries">Chapter 6 - DICTIONARIES</a>
 
 * learned how to define a dictionary and how to work with the information stored in a dictionary. 
 * learned how to access and modify individual elements in a dictionary, and how to loop through all of the information in a dictionary. 
 * learned to loop through a dictionary’s key-value pairs, its keys, and its values. 
 * learned how to nest multiple dictionaries in a list, nest lists in a dictionary, and nest a dictionary inside a dictionary.
 
-### Chapter 7 - USER INPUT AND WHILE LOOPS
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%207%20-%20User%20Input%20and%20While%20Loop">Chapter 7 - USER INPUT AND WHILE LOOPS</a>
 
 * learned how to use input() to allow users to provide their own information in the programs. 
 * learned to work with both text and numerical input and how to use while loops to make programs run as long as users want them to. 
@@ -88,7 +88,7 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * learned how to use a while loop to move items from one list to another and how to remove all instances of a value from a list. 
 * learned how while loops can be used with dictionaries.
 
-### Chapter 8 - FUNCTIONS
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%208%20-%20functions">Chapter 8 - FUNCTIONS</a>
 
 * learned how to write functions and to pass arguments so that your functions have access to the information they need to do their work. 
 
@@ -105,4 +105,4 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * Using functions makes your programs easier to read, and good function names summarize what each part of a program does. Reading a series of function calls gives you a much quicker sense of what a program does than reading a long series of code blocks.
 
 * Functions also make your code easier to test and debug. When the bulk of your program’s work is done by a set of functions, each of which has a specific job, it’s much easier to test and maintain the code you’ve written. You can write a separate program that calls each function and tests whether each function works in all the situations it may encounter. When you do this, you can be confident that your functions will work properly each time you call them.
-### Chapter 9 - CLASSES
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%209%20-%20CLASSES">Chapter 9 - CLASSES<a/>
