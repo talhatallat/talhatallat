@@ -1,5 +1,5 @@
 # Inheritance
-
+##  When you create a child class, the parent class must be part of the current file and must appear before the child class in the file.
 
 class Car():
     """A simple attempt to represent a car."""
