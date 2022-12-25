@@ -28,7 +28,7 @@ Add a method called increment_number_served() that lets you increment the number
 Add an attribute called login_attempts to your User class from Exercise 9-3 (page 166). Write a method called increment_login_attempts() that increments the value of login_attempts by 1. Write another method called reset_login_attempts() that resets the value of login_attempts to 0.
 
 Make an instance of the User class and call increment_login_attempts() several times. Print the value of login_attempts to make sure it was incremented properly, and then call reset_login_attempts(). Print login_attempts again to make sure it was reset to 0.
-# <a href="">inheritance</a>
+# <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%209%20-%20CLASSES/Inheritance/inheritance.py">inheritance</a>
 ## 9-6. Ice Cream Stand: 
 An ice cream stand is a specific kind of restaurant. Write a class called IceCreamStand that inherits from the Restaurant class you wrote in Exercise 9-1 (page 166) or Exercise 9-4 (page 171). Either version of the class will work; just pick the one you like better. Add an attribute called flavors that stores a list of ice cream flavors. Write a method that displays these flavors. Create an instance of IceCreamStand, and call this method.
 ## 9-7. Admin: 
