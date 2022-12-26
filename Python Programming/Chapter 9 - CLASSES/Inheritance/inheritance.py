@@ -72,7 +72,27 @@ my_admin = admin() # instances 2
 my_admin.show_privileges() # calling a method
 
 # 9-8. Privileges: Write a separate Privileges class. 
-#The class should have one attribute, privileges, that stores a list of strings as described in Exercise 9-7. 
+# The class should have one attribute, privileges, that stores a list of strings as described in Exercise 9-7. 
 # Move the show_privileges() method to this class. 
 # Make a Privileges instance as an attribute in the Admin class. 
 # Create a new instance of Admin and use your method to show its privileges.
+
+class privileges():
+    """Class with one attribute"""
+    def __init__(self, privileges = ["can add post", "can delete post", "can ban user"]):
+        self.privileges = privileges
+    
+    def show_privileges(self): # method 2
+        for sets_of_privileges in self.privileges:
+            print("'"+ sets_of_privileges.title() + 
+            "' is one of privileges a administrator's have!!!")
+    
+class admin(privileges):
+    """Admin class that inherits from the User class"""
+    def __init__(self, privileges= ["can add post", "can delete post", "can ban user"]):# method 1 with a attribute stores list od strings
+        # Make a Privileges instance as an attribute in the Admin class. 
+        super().__init__(privileges)
+    
+        
+my_admin = admin() # instances 1
+my_admin.show_privileges() # calling a method to show its privileges.
