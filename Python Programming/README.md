@@ -36,6 +36,8 @@ any()          
 eval()        
 isinstance()    pow()       sum()basestring()   execfile()    issubclass()    print()     super()  bin()          file()        iter()          property()  tuple()bool()         filter()      len()           range()     type() bytearray()    float()       list()          raw_input() unichr()callable()     format()      locals()        reduce()    unicode()chr()          frozenset()   long()          reload()    vars() classmethod()  getattr()     map()           repr()      xrange()cmp()          globals()     max()           reversed()  zip()compile()      hasattr()     memoryview()    round()     __import__()complex()      hash()        min()           set()       apply()delattr()      help()        next()          setattr()   buffer()dict()         hex()         object()        slice()     coerce()dir()          id()          oct()           sorted()    intern()
 
+### Resources 
+*  Excellent resource for exploring the Python standard library is a site called Python Module of the Week. Go to http://pymotw.com/ and look at the table of contents.
 ## Summary 
 
 ### Chapter 1 - Getting Started
