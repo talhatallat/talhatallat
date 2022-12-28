@@ -44,3 +44,18 @@ An administrator is a special kind of user. Write a class called Admin that inhe
 Write a separate Privileges class. The class should have one attribute, privileges, that stores a list of strings as described in Exercise 9-7. Move the show_privileges() method to this class. Make a Privileges instance as an attribute in the Admin class. Create a new instance of Admin and use your method to show its privileges.
 ## 9-9. Battery Upgrade: 
 Use the final version of electric_car.py from this section. Add a method to the Battery class called upgrade_battery(). This method should check the battery size and set the capacity to 85 if it isn’t already. Make an electric car with a default battery size, call get_range() once, and then call get_range() a second time after upgrading the battery. You should see an increase in the car’s range.
+
+# <a href="">Importing Classes</a>
+* Importing a Single Class
+* Storing Multiple Classes in a Module
+* Importing Multiple Classes from a Module
+* Importing an Entire Module
+* Importing All Classes from a Module
+* Importing a Module into a Module
+
+## 9-10. Imported Restaurant: 
+Using your latest Restaurant class, store it in a module. Make a separate file that imports Restaurant. Make a Restaurant instance, and call one of Restaurant’s methods to show that the import statement is working properly.
+## 9-11. Imported Admin: 
+Start with your work from Exercise 9-8 (page 178). Store the classes User, Privileges, and Admin in one module. Create a separate file, make an Admin instance, and call show_privileges() to show that everything is working correctly.
+## 9-12. Multiple Modules: 
+Store the User class in one module, and store the Privileges and Admin classes in a separate module. In a separate file, create an Admin instance and call show_privileges() to show that everything is still working correctly.
