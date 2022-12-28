@@ -108,3 +108,14 @@ isinstance()    pow()       sum()basestring()   execfile()    
 
 * Functions also make your code easier to test and debug. When the bulk of your program’s work is done by a set of functions, each of which has a specific job, it’s much easier to test and maintain the code you’ve written. You can write a separate program that calls each function and tests whether each function works in all the situations it may encounter. When you do this, you can be confident that your functions will work properly each time you call them.
 ### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%209%20-%20CLASSES">Chapter 9 - CLASSES<a/>
+
+* learned how to write your own classes. 
+* learned how to store information in a class using attributes 
+* how to write methods that give your classes the behavior they need. 
+* learned to write __init__() methods that create instances from your classes with exactly the attributes you want. 
+* saw how to modify the attributes of an instance directly and through methods. 
+* learned that inheritance can simplify the creation of classes that are related to each other
+* learned to use instances of one class as attributes in another class to keep each class simple.
+* how storing classes in modules and importing classes you need into the files where they’ll be used can keep your projects organized. 
+* learned about the Python standard library, and saw an example based on the OrderedDict class from the collections module. 
+* learned to style your classes using Python conventions.
