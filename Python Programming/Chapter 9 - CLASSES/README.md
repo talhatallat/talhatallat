@@ -60,7 +60,7 @@ Start with your work from Exercise 9-8 (page 178). Store the classes User, Privi
 ## 9-12. Multiple Modules: 
 Store the User class in one module, and store the Privileges and Admin classes in a separate module. In a separate file, create an Admin instance and call show_privileges() to show that everything is still working correctly.
 
-# <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%209%20-%20CLASSES/Importing%20Classes">The Python Standard Library</a>
+# <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%209%20-%20CLASSES/The%20Python%20Standard%20Library/python_standard_library.py">The Python Standard Library</a>
 ## 9-13. OrderedDict Rewrite: 
 Start with Exercise 6-4 (page 108), where you used a standard dictionary to represent a glossary. Rewrite the program using the OrderedDict class and make sure the order of the output matches the order in which key-value pairs were added to the dictionary.
 ## 9-14. Dice: 
