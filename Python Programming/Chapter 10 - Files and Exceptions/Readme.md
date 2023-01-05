@@ -1,4 +1,4 @@
-# Reading from a File
+# <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File">Reading from a File<a/>
 * Reading an Entire File
 * File Paths
 * Reading Line by Line
