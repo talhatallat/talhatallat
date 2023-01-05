@@ -24,5 +24,5 @@ Read in each line from the file you just created, learning_python.txt, and repla
 
 # <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File">Writing to a File<a/>
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File/write_message.py">Writing to an Empty File<a/>
-* <a href="">Writing Multiple Lines<a/>
-* <a href="">Appending to a File<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File/write_message.py">Writing Multiple Lines<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File/write_message.py">Appending to a File<a/>
