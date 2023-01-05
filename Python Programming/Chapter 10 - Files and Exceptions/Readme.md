@@ -2,9 +2,9 @@
 * Reading an Entire File
 * File Paths
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File/file_reader.py">Reading Line by Line<a/>
-* Making a List of Lines from a File
-* Working with a File’s Contents
-* Large Files: One Million Digits
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File/pi_string.py">Making a List of Lines from a File<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File/pi_string.py">Working with a File’s Contents<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File/pi_string.py">Large Files: One Million Digits<a/>
 ## 10-1. Learning Python: 
 Open a blank file in your text editor and write a few lines summarizing what you’ve learned about Python so far. 
 Start each line with the phrase In Python you can.... Save the file as learning_python.txt in the same directory as your exercises from this chapter. 
