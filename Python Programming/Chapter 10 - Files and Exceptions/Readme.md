@@ -21,3 +21,8 @@ You can use the replace() method to replace any word in a string with a differen
 <p>'I really like cats.'<p/>
 
 Read in each line from the file you just created, learning_python.txt, and replace the word Python with the name of another language, such as C. Print each modified line to the screen.
+
+# <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File">Writing to a File<a/>
+* <a href="">Writing to an Empty File<a/>
+* <a href="">Writing Multiple Lines<a/>
+* <a href="">Appending to a File<a/>
