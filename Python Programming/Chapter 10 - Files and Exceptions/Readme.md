@@ -1,6 +1,6 @@
 # <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File">Reading from a File<a/>
 * Reading an Entire File
-* File Paths
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File/file_paths.py">File Paths<a/>
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File/file_reader.py">Reading Line by Line<a/>
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File/pi_string.py">Making a List of Lines from a File<a/>
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Reading%20from%20a%20File/pi_string.py">Working with a File’s Contents<a/>
