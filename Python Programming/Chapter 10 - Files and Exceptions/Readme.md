@@ -26,3 +26,9 @@ Read in each line from the file you just created, learning_python.txt, and repla
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File/write_message.py">Writing to an Empty File<a/>
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File/write_message.py">Writing Multiple Lines<a/>
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File/write_message.py">Appending to a File<a/>
+## 10-3. Guest: 
+Write a program that prompts the user for their name. When they respond, write their name to a file called guest.txt.
+## 10-4. Guest Book: 
+Write a while loop that prompts users for their name. When they enter their name, print a greeting to the screen and add a line recording their visit in a file called guest_book.txt. Make sure each entry appears on a new line in the file.
+## 10-5. Programming Poll: 
+Write a while loop that asks people why they like programming. Each time someone enters a reason, add their reason to a file that stores all the responses.
