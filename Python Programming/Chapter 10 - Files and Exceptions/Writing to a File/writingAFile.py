@@ -24,7 +24,7 @@ with open(filename, 'w') as file_object:
             
 # 10-5. Programming Poll: Write a while loop that asks people why they like programming. 
 # Each time someone enters a reason, add their reason to a file that stores all the responses.
-filename = 'guest.txt'
+filename = 'guest_book.txt'
 
 with open(filename, 'a') as file_object: # 'a' Appends to a File (meaning adds to a exiting data stores within a file)
     while True:
