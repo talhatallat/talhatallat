@@ -32,3 +32,13 @@ Write a program that prompts the user for their name. When they respond, write t
 Write a while loop that prompts users for their name. When they enter their name, print a greeting to the screen and add a line recording their visit in a file called guest_book.txt. Make sure each entry appears on a new line in the file.
 ### <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Writing%20to%20a%20File/writingAFile.py">10-5. Programming Poll:<a/>
 Write a while loop that asks people why they like programming. Each time someone enters a reason, add their reason to a file that stores all the responses.
+
+# <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions">Exceptions</a>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/division_1.py">Handling the ZeroDivisionError Exception</a>
+* <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions">Using try-except Blocks</a>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/division_3.py">Using Exceptions to Prevent Crashes</a>
+* <a href="">The else Block<a/>
+* <a href="">The else Block<a/>
+* <a href="">The else Block<a/>
+* <a href="">The else Block<a/>
+* <a href="">The else Block<a/>
