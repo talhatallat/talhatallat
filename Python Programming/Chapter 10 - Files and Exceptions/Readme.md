@@ -37,8 +37,9 @@ Write a while loop that asks people why they like programming. Each time someone
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/division_1.py">Handling the ZeroDivisionError Exception</a>
 * <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions">Using try-except Blocks</a>
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/division_3.py">Using Exceptions to Prevent Crashes</a>
-* <a href="">The else Block<a/>
-* <a href="">The else Block<a/>
-* <a href="">The else Block<a/>
-* <a href="">The else Block<a/>
-* <a href="">The else Block<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/division_4.py">The else Block<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/alice_2.py">Handling the FileNotFoundError Exception<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/alice_3.py">Analyzing Text<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/word_count_1.py">Working with Multiple Files<a/>
+* <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/failing_silently.py">Failing Silently<a/>
+* Deciding Which Errors to Report
