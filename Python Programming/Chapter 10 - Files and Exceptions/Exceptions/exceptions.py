@@ -43,5 +43,17 @@ for filename in filenames: # looping through the two txt files
         print("Sorry! the file is missing.")
 
 # 10-9. Silent Cats and Dogs: Modify your except block in Exercise 10-8 to fail silently if either file is missing.
+filenames = ['cats.txt', 'dogs.txt'] # two elements in a list stored as txt files 
+for filename in filenames: # looping through the two txt files 
+    
+    try:
+        with open(filename) as f_obj: # opening files as an object 
+            data = f_obj.read() # printing the data read from an object
 
+    except FileNotFoundError:
+        pass
+
+    else:
+        print("\nReading file: " + filename)
+        print(data)
     
