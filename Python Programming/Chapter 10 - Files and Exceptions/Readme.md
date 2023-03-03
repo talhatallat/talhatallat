@@ -54,7 +54,30 @@ Make two files, cats.txt and dogs.txt. Store at least three names of cats in the
 Modify your except block in Exercise 10-8 to fail silently if either file is missing.
 ### <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Exceptions/exceptions.py">10-10. Common Words:</a>
 Visit Project Gutenberg (http://gutenberg.org/) and find a few texts you’d like to analyze. Download the text files for these works, or copy the raw text from your browser into a text file on your computer.
+
 You can use the count() method to find out how many times a word or phrase appears in a string. For example, the following code counts the number of times 'row' appears in a string:
->>> line = "Row, row, row your boat">>> line.count('row')2>>> line.lower().count('row')3
+
+    >>> line = "Row, row, row your boat"
+    >>> line.count('row')
+    2
+    >>> line.lower().count('row')
+    3
+
 Notice that converting the string to lowercase using lower() catches all appearances of the word you’re looking for, regardless of how it’s formatted.
 Write a program that reads the files you found at Project Gutenberg and determines how many times the word 'the' appears in each text.
+
+# <a href="">Storing Data</a>
+* <a href="">Using json.dump() and json.load()</a>
+* <a href="">Saving and Reading User-Generated Data</a>
+* <a href="">Refactoring</a>
+
+### <a href="">10-11. Favorite Number:</a>
+Write a program that prompts for the user’s favorite number. Use json.dump() to store this number in a file. Write a separate program that reads in this value and prints the message, “I know your favorite number! It’s _____.”
+
+### <a href="">10-12. Favorite Number Remembered:</a> 
+Combine the two programs from Exercise 10-11 into one file. If the number is already stored, report the favorite number to the user. If not, prompt for the user’s favorite number and store it in a file. Run the program twice to see that it works.
+
+### <a href="">10-13. Verify User:</a> 
+The final listing for remember_me.py assumes either that the user has already entered their username or that the program is running for the first time. We should modify it in case the current user is not the person who last used the program.
+
+Before printing a welcome back message in greet_user(), ask the user if this is the correct username. If it’s not, call get_new_username() to get the correct username.
