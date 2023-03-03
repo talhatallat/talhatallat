@@ -26,6 +26,27 @@ while True:
     else:
         print(cal)
         
-# 10-8. Cats and Dogs: Make two files, cats.txt and dogs.txt. Store at least three names of cats in the first file and three names of dogs in the second file. Write a program that tries to read these files and print the contents of the file to the screen. Wrap your code in a try-except block to catch the FileNotFound error, and print a friendly message if a file is missing. Move one of the files to a different location on your system, and make sure the code in the except block executes properly.
+# 10-8. Cats and Dogs: Make two files, cats.txt and dogs.txt. 
+# Store at least three names of cats in the first file and three names of dogs in the second file. 
+# Write a program that tries to read these files and print the contents of the file to the screen. 
+# Wrap your code in a try-except block to catch the FileNotFound error, and print a friendly message if a file is missing. 
+# Move one of the files to a different location on your system, and make sure the code in the except block executes properly.
 
+try:
+    catsfile = 'cats.txt'
+    dogsfile = 'dogs.txt'
 
+    with open(catsfile, 'r+') as cats_obj:
+        cats_obj.write("bella\n"+"kitty\n"+"lucy\n")
+        print("\nNames of the cats: ")
+        for line in cats_obj:
+            print(line.rstrip())
+
+    with open(dogsfile, 'r+') as dogs_obj:
+        dogs_obj.write("max\n"+"charlie\n"+"milo\n")
+        print("\nNames of the dogs: ")
+        for line in dogs_obj:
+            print(line.rstrip())
+
+except FileNotFoundError:
+    print("Sorry! the file is missing.")     
