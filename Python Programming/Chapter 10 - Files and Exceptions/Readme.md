@@ -71,13 +71,13 @@ Write a program that reads the files you found at Project Gutenberg and determin
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Storing%20Data/remember_me_tryblock.py">Saving and Reading User-Generated Data</a>
 * <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Storing%20Data/refactoring_remember_me.py">Refactoring</a>
 
-### <a href="">10-11. Favorite Number:</a>
+### <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Storing%20Data/favorite_number.py">10-11. Favorite Number:</a>
 Write a program that prompts for the user’s favorite number. Use json.dump() to store this number in a file. Write a separate program that reads in this value and prints the message, “I know your favorite number! It’s _____.”
 
-### <a href="">10-12. Favorite Number Remembered:</a> 
+### <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Storing%20Data/favorite_number.py">10-12. Favorite Number Remembered:</a> 
 Combine the two programs from Exercise 10-11 into one file. If the number is already stored, report the favorite number to the user. If not, prompt for the user’s favorite number and store it in a file. Run the program twice to see that it works.
 
-### <a href="">10-13. Verify User:</a> 
+### <a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Storing%20Data/favorite_number.py">10-13. Verify User:</a> 
 The final listing for remember_me.py assumes either that the user has already entered their username or that the program is running for the first time. We should modify it in case the current user is not the person who last used the program.
 
 Before printing a welcome back message in greet_user(), ask the user if this is the correct username. If it’s not, call get_new_username() to get the correct username.
