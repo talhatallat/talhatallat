@@ -47,3 +47,38 @@ else:
 # We should modify it in case the current user is not the person who last used the program.
 # Before printing a welcome back message in greet_user(), ask the user if this is the correct username. 
 # If it’s not, call get_new_username() to get the correct username.
+
+import json
+
+def greet_user():
+    """Greet the user by name."""
+
+    filename = 'username.json'
+
+    try:
+        with open(filename) as f_obj:
+            username = json.load(f_obj)
+
+    except FileNotFoundError:
+        username = input("What is your name? ")
+        with open(filename, 'w') as f_obj:
+            json.dump(username, f_obj)
+            print("We'll remember you when you come back, " + username + "!")
+                
+    else:
+        user = input("Are you " + username + "? Enter (yes OR no)")
+        if user == "yes":
+            print("welcome "+ username.title() +"!")
+        else: 
+            return get_new_username()
+
+def get_new_username():
+    """ """
+    filename = 'username.json'
+    
+    username = input("Who are you? ")
+    with open(filename, 'w') as f_obj:
+        json.dump(username, f_obj)
+        print("We'll remember you when you come back, " + username + "!")
+
+greet_user()
