@@ -119,3 +119,14 @@ isinstance()    pow()       sum()basestring()   execfile()    
 * how storing classes in modules and importing classes you need into the files where they’ll be used can keep your projects organized. 
 * learned about the Python standard library, and saw an example based on the OrderedDict class from the collections module. 
 * learned to style your classes using Python conventions.
+
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions">Chapter 10 - FILES AND EXCEPTIONS<a/>
+
+* learned how to work with files. 
+* learned to read an entire file at once and read through a file’s contents one line at a time. 
+* learned to write to a file and append text onto the end of a file. 
+* read about exceptions and how to handle the exceptions you’re likely to see in your programs. 
+* learned how to store Python data structures to be able to save information users provide, preventing them from having to start over each time they run a program.
+
+### <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2011%20-%20Testing%20Your%20Code">Chapter 11 - TESTING YOUR CODE<a/>
+* In progress 
