@@ -66,7 +66,7 @@ You can use the count() method to find out how many times a word or phrase appea
 Notice that converting the string to lowercase using lower() catches all appearances of the word you’re looking for, regardless of how it’s formatted.
 Write a program that reads the files you found at Project Gutenberg and determines how many times the word 'the' appears in each text.
 
-# <a href="">Storing Data</a>
+# <a href="https://github.com/talhatallat/talhatallat/tree/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Storing%20Data">Storing Data</a>
 * Using<a href="https://github.com/talhatallat/talhatallat/blob/main/Python%20Programming/Chapter%2010%20-%20Files%20and%20Exceptions/Storing%20Data/number_writer.py"> json.dump()</a> and <a href="">json.load()</a>
 * <a href="">Saving and Reading User-Generated Data</a>
 * <a href="">Refactoring</a>
