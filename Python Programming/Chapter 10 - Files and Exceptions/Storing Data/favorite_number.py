@@ -25,3 +25,25 @@ with open(filename) as f_obj:
 # If not, prompt for the user’s favorite number and store it in a file. 
 # Run the program twice to see that it works.
 
+import json
+
+filename = 'favorite_number.json'
+
+try:
+    with open(filename) as f_obj:
+        read = json.load(f_obj)
+        
+except FileNotFoundError:
+    
+    with open(filename, 'w') as f_obj:
+        prompt = input("What is your favorite number?")
+        json.dump(prompt, f_obj)
+        print("I will remember your fav no once you come back, " + prompt + "!") # print a greeting
+
+else:
+    print("I know your favorite number! Its "+ read +".")
+
+# 10-13. Verify User: The final listing for remember_me.py assumes either that the user has already entered their username or that the program is running for the first time. 
+# We should modify it in case the current user is not the person who last used the program.
+# Before printing a welcome back message in greet_user(), ask the user if this is the correct username. 
+# If it’s not, call get_new_username() to get the correct username.
