@@ -23,6 +23,7 @@
 # except Exception as e:
 #     print(e)
 
+# removes file
 import os 
 os.remove("test-file1.txt")
 
