@@ -2,7 +2,7 @@ import openai
 import json # reads json data which is response from the api
 import requests # communicates with api
 
-openai.api_key = "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"
+openai.api_key = "YOUR OPENAI API KEY"
 
 def BasicGeneration(userPrompt): 
     completion = openai.ChatCompletion.create(
