@@ -3,7 +3,7 @@ import json
 import requests
 import streamlit as st
 
-openai.api_key = "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"
+openai.api_key = "YOUR OPENAI API key"
 
 def BasicGeneration(userPrompt):
     completion = openai.ChatCompletion.create(
@@ -26,7 +26,7 @@ def GetBitCoinPrices():
 
     # Define the request headers with API key and host
     headers = {
-	    "X-RapidAPI-Key": "ebb8d26a9dmsh67b8180e2589de5p1c28e3jsn5c857a896ba6",
+	    "X-RapidAPI-Key": "YOUR RAPIDAI key",
 	    "X-RapidAPI-Host": "coinranking1.p.rapidapi.com"
     }
 
