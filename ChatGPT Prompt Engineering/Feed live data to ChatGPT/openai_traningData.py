@@ -26,7 +26,7 @@ def GetBitCoinPrices():
     # Define the request headers with API key and host
     headers = {
 	    "X-RapidAPI-Key": "YOUR RAPID-API KEY",
-	    "X-RapidAPI-Host": "YOUR RAPID-API HOST"
+	    "X-RapidAPI-Host": "coinranking1.p.rapidapi.com"
     }
 
     # Send a GET request to the API endpoint with query parameters and headers
