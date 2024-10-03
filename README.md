@@ -1,6 +1,6 @@
 ## Hi, I'm [Talha Tallat](https://github.com/talhatallat)! 👋
 
-- 🎓 Final year studying Electrical & Electronic Enginnering at TU Dublin.
+- 🎓 Electrical & Electronic Engineering Final Year Student at TU Dublin.
   
 - 🌱 IOT, Linux, C++, Python, JavaScript, Blender, Solid State Electronics, Microfabrication, Powers System Analysis, Energy Resources & Thermodynamics and Business and Management Studies
   
